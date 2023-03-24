@@ -1,0 +1,14 @@
+body{
+	 background-color: lightgreen; 
+}
+
+.circle   {
+        height: 25px;
+	width : 25px;
+        margin: 40px;
+        border: 1px solid;
+	border-radius : 50%;
+        background-color: red;
+	
+	position : relative;
+    }
